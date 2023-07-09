@@ -155,4 +155,50 @@ ol{
     margin-top: 20px;
 }
 
+/* footer_section */
 
+
+
+.footer_box{
+    background-color: gray;
+    margin: 130px 130px 0px 130px;
+    padding-top: 100px;
+}
+
+.footer_pics{
+    height: 200px;
+    width: 250px;
+}
+
+.footer_columns{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px;
+}
+
+.footer_header{
+    font-size: 50px;
+    text-align: center;
+   /* padding-top: 200px; */
+    
+}
+.footer_caps{
+
+    width: 240px;
+    margin-right: auto;
+    font-size: 20px;
+
+}
+
+.footer_texts{
+
+    width: 240px;
+    margin-right: auto;
+    font-size: 17px;
+    margin-top: 10px;
+}
+
+.footer_red_box{
+    
+}
